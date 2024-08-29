@@ -35,7 +35,7 @@ class FiGraphDataset(InMemoryDataset):
 
         for year in range(2014, 2016):
             edge_path = os.path.join(data_dir, f'edges{year}.csv')
-            edge_data = pd.read_csv(edge_path, header=None)  # 明确指定没有列名
+            edge_data = pd.read_csv(edge_path, header=None)  
 
             G = nx.Graph()
             for _, row in edge_data.iterrows():
