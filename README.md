@@ -35,6 +35,9 @@ Initially, we split the dataset into training and testing sets in an 8:2 ratio u
 # Attribute Description
 * Details in **'FeaturesDescription.xlsx'** for all attributes of target nodes.
 
+# Produce data for PyG
+Run figraph.py to produce data for PyG 
+
 
 # License
 
