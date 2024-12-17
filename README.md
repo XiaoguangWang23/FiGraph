@@ -1,5 +1,5 @@
 # FiGraphN
-Our paper **FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection**
+**FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection**
 
 # Attribute Description
 * Details in **'FeaturesDescription.xlsx'** for all attributes of target nodes.
