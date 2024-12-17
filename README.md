@@ -8,12 +8,23 @@ This dataset is licensed under the [Creative Commons Attribution 4.0 Internation
 
 **Under the following terms:**
 - **Attribution** — You must give appropriate credit. This includes:
-  - Citing the original author: “© 2024 Xiaoguang Wang” (or你的姓名/机构名称).
-  - Providing a link to this repository or the source where the dataset was obtained.
+  - Citing the authors as follows:
+    - **Xiaoguang Wang** (wangxg@stu.xjtu.edu.cn, [ORCID: 0000-0002-6060-5883])  
+      *Xi'an Jiaotong University, Xi'an, China*
+    - **Chenxu Wang** (Corresponding author, cxwang@mail.xjtu.edu.cn, [ORCID: 0000-0002-9539-5046])  
+      *Xi'an Jiaotong University, Xi'an, China*
+    - **Huanlong Liu** (hlliu@stu.xjtu.edu.cn, [ORCID: 0009-0009-7932-8706])  
+      *Xi'an Jiaotong University, Xi'an, China*
+    - **Mengqin Wang** (wmengqin@stu.xjtu.edu.cn, [ORCID: 0009-0005-8130-0623])  
+      *Xi'an Jiaotong University, Xi'an, China*
+    - **Tao Qin** (qin.tao@mail.xjtu.edu.cn, [ORCID: 0000-0002-7674-698X])  
+      *Xi'an Jiaotong University, Xi'an, China*
+    - **Pinghui Wang** (phwang@mail.xjtu.edu.cn, [ORCID: 0000-0002-1434-837X])  
+      *Xi'an Jiaotong University, Xi'an, China*
+
+  - Providing a link to this repository (if public).
   - Including a link to the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-  - Indicating if changes were made (e.g., “Data were modified from the original”).
-  
-  The attribution should be given in a reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+  - Indicating if any modifications were made (e.g., “Data were modified from the original.”).
 
 **No Additional Restrictions:**
 - You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
