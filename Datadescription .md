@@ -15,7 +15,5 @@ Folder 'data' stores the edges data and node attribute data of FiGraph. To fill 
 ## Features file and feature selection 
 * **ListedCompanyFeatures772.csv'** stores the complete raw attributes of all target nodes. Detailed attribute descriptions available in **"FeaturesDescription.xlsx"**.
 
-
-
 # Attribute Description
 * Details in **'FeaturesDescription.xlsx'** for all attributes of target nodes.
