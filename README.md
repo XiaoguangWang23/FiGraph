@@ -2,7 +2,9 @@
 **FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection**
 
 ## Attribute Description
-Details in **'FeaturesDescription.xlsx'** for all attributes of target nodes.
+Details in **FeaturesDescription.xlsx** for all attributes of target nodes.
+
+
 
 
 
@@ -13,9 +15,6 @@ Details in **'FeaturesDescription.xlsx'** for all attributes of target nodes.
 
 This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/). A copy of the full license text is provided in the [LICENSE](./LICENSE) file.
 
-**You are free to:**
-- **Share** — copy and redistribute the material in any medium or format
-- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
 **Under the following terms:**
 - **Attribution** — You must give appropriate credit. This includes:
