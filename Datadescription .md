@@ -13,7 +13,7 @@ Folder 'data' stores the edges data and node attribute data of FiGraph. To fill 
 * 'Label' represents the label, 1 represents normal while 0 represents fraud.
 
 ## Features file and feature selection 
-* **ListedCompanyFeatures772.csv'** stores the complete raw attributes of all target nodes and detailed attribute descriptions available in **"FeaturesDescription.xlsx"**.
+* **ListedCompanyFeatures772.csv'** stores the complete raw attributes of all target nodes. Detailed attribute descriptions available in **"FeaturesDescription.xlsx"**.
 
 
 
