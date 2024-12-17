@@ -15,17 +15,6 @@ Folder 'data' stores the edges data and node attribute data of FiGraph. To fill 
 ## Features file and feature selection 
 * **ListedCompanyFeatures772.csv'** stores the complete raw attributes of all target nodes and detailed attribute descriptions available in **"FeaturesDescription.xlsx"**.
 
-* **'ListedCompanyFeatures247.csv'** stores the 247 important raw attributes of which 'Cumulative Importance' exceed 80%.
-
-* **feature\_importance.csv** 
-'Feature': 575 dimensional attributes. 'Importance': importaance scores calculated by LightGBM.'Normalized_importance': the result obtained by normalizing the importance scores of 575 dimensional features.'Cumulative Importance': All features are arranged in descending order of normalized importance, and the summation score is accumulated starting from top 1.
-
-* **'ListedCompanyFeatures.csv'** is obtained by filling in missing values in 'ListedCompanyFeatures247.csv'.
-
-**Why and how feature selection?**
-Target nodes in FiGraph contain extensive and high-dimensional data. We totally extract 772 features for each target node. However, not all features hold equal importance in detecting financial fraud. Additionally, given that financial data often suffers from incomplete reporting and confidentiality constraints, many features exhibit substantial missing values. Therefore, the primary objective of our data cleaning process is to select the most important features and eliminate features with high missing rates.Before feature selection, we remove 197 features with missing values exceeding 30% from the original file, leaving 575. We use median and mode to fill in continuous and discrete variables with missing values, respectively. After taht, we select important features.
-
-Initially, we split the dataset into training and testing sets in an 8:2 ratio using stratified sampling to maintain class distribution. To address class imbalance in the training set, we apply the Synthetic Minority Over-sampling Technique (SMOTE), generating synthetic samples for the minority class to ensure balanced training. We utilize Optuna to optimize hyperparameters of a LightGBM[35] model, aiming to maximize the average precision (AP) score. AP is chosen over AUC due to its sensitivity to class imbalance, providing a more accurate reflection of the model's performance in identifying abnormal instances. We perform 5-fold cross-validation on the training set, which includes an internal split, reserving 20% as a validation set within each fold. This process ensures robust hyperparameter tuning and avoids overfitting. Key hyperparameters tuned include: 'num_leaves', 'max_depth', 'learning_rate', 'n_estimators', 'subsample', 'colsample_bytree', 'min_child_weight', 'reg_alpha', 'reg_lambda' and 'scale_pos_weight'. This optimization process spans 50 trials to identify the optimal parameters. After training the LightGBM model with the best parameters on the resampled training set, we calculate feature importance. We retain the top-ranked features that cumulatively account for over 80% of the total importance, balancing model complexity and predictive power. This processing ensures that we select the most important 247 features for the financial fraud detection model. 
 
 
 # Attribute Description
