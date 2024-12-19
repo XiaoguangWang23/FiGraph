@@ -20,8 +20,8 @@ This paper presents FiGraph, a real-world dynamic heterogeneous graph with groun
 This data set will be provided to you under the "Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)". You can learn about the CC BY-NC 4.0 agreement by visiting the URL https://creativecommons.org/licenses/by/4.0/. When you download or use these data sets from other places, you agree to abide by the terms of CC BY-NC 4.0. If the terms of a third-party external license conflict with CC BY-NC 4.0, the terms of this license shall take precedence. We reiterate that this dataset is intended for non-commercial use only, such as academic research, teaching, or scientific publishing. We do not give you permission to use the dataset or any derivative works thereof for commercial purposes, such as selling the data or exploiting it for commercial gain. A copy of the full license text is provided in the [LICENSE](./LICENSE) file. By using this dataset, you agree to these terms.
 
 
-**Under the following terms:**
-- **Attribution** — You must give appropriate credit. By using this dataset, you agree to these terms. This includes:
+**Under the following terms:**  
+You must give appropriate credit. By using this dataset, you agree to these terms. This includes:
   - Citing the authors as follows:
     - **Xiaoguang Wang** (wangxg@stu.xjtu.edu.cn, [ORCID: 0000-0002-6060-5883])  
       *Xi'an Jiaotong University, Xi'an, China*
@@ -37,5 +37,5 @@ This data set will be provided to you under the "Creative Commons Attribution-No
       *Xi'an Jiaotong University, Xi'an, China*
 
   - Providing a link to this repository (if public).
-  - Including a link to the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+  - You agree to abide by the terms of [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
   - Indicating if any modifications were made (e.g., “Data were modified from the original.”).
