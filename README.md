@@ -22,7 +22,7 @@ This data set will be provided to you under the "Creative Commons Attribution-No
 
 **Under the following terms:**  
 You must give appropriate credit. By using this dataset, you agree to these terms. This includes:
-  - Citing the authors as follows:
+  - Citing this Paper and authors as follows:
     - **Xiaoguang Wang** (wangxg@stu.xjtu.edu.cn, [ORCID: 0000-0002-6060-5883])  
       *Xi'an Jiaotong University, Xi'an, China*
     - **Chenxu Wang** (Corresponding author, cxwang@mail.xjtu.edu.cn, [ORCID: 0000-0002-9539-5046])  
@@ -38,4 +38,4 @@ You must give appropriate credit. By using this dataset, you agree to these term
 
   - Providing a link to this repository (if public).
   - You agree to abide by the terms of [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
-  - Indicating if any modifications were made (e.g., “Data were modified from the original.”).
+  - Indicating if any modifications were made (e.g., “Data were modified from the original.”) and what content has been modified.
