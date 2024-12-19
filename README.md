@@ -1,4 +1,4 @@
-# FiGraphN
+# FiGraph
 **FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection**
 
 ## Description
@@ -6,7 +6,10 @@
 
 * **'ListedCompanyFeatures772.csv'** stores the tabular attributes of listed company nodes, with each row representing a listed company node. In this file, column "nodeID" represents the node ID of the listed company, and column "Label" represents the ground truth labels of the listed company, The column "Year" represents the year (snapshot).
 
-* **MDA.xlsx** stores the textual attributes of listed company nodes. Each row represents a node of a listed company. In this file, column "nodeID" represents the node ID of the listed company, and column "Label" represents the ground truth labels of the listed company, The column "Year" represents the year (snapshot). The column "ManaDiscAnal" represents the textual attribute input for each listed company node.
+* **'MDA.xlsx'** stores the textual attributes of listed company nodes. Each row represents a node of a listed company. In this file, column "nodeID" represents the node ID of the listed company, and column "Label" represents the ground truth labels of the listed company, The column "Year" represents the year (snapshot). The column "ManaDiscAnal" represents the textual attribute input for each listed company node.
+
+
+
 
 
 ## License
