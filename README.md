@@ -13,16 +13,9 @@
 
 
 ## License
-本数据集将按照“知识共享(Creative Commons)署名-非商业性使用 4.0 国际许可协议（CC BY-NC 4.0）”向您提供。您可通过访问网址 https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-Hans 了解 CC BY-NC 4.0协议内容。当您从其他地方下载或使用这些数据集时，您同意遵守 CC BY-NC 4.0 条款的约定，如果第三方对外许可的条款与 CC BY-NC 4.0相冲突，本许可条款应优先适用。我们再次重申，该数据集仅用于非商业用途，例如学术研究、教学或科学出版等。我们并未允许您将数据集或其任何衍生作品用于商业目的，例如出售数据或将其用于商业利益。
+本数据集将按照“知识共享(Creative Commons)署名-非商业性使用 4.0 国际许可协议（CC BY-NC 4.0）”向您提供。您可通过访问网址 https://creativecommons.org/licenses/by-nc/4.0/legalcode.zh-Hans 了解 CC BY-NC 4.0协议内容。当您从其他地方下载或使用这些数据集时，您同意遵守 CC BY-NC 4.0 条款的约定，如果第三方对外许可的条款与 CC BY-NC 4.0相冲突，本许可条款应优先适用。我们再次重申，该数据集仅用于非商业用途，例如学术研究、教学或科学出版等。我们并未允许您将数据集或其任何衍生作品用于商业目的，例如出售数据或将其用于商业利益。[LICENSE](./LICENSE) 文件中提供了完整许可证文本的副本。
 
-This data set will be provided to you under the "Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)". You can learn about the CC BY-NC 4.0 agreement by visiting the URL https://creativecommons.org/licenses/by/4.0/. When you download or use these data sets from other places, you agree to abide by the terms of CC BY-NC 4.0. If the terms of a third-party external license conflict with CC BY-NC 4.0, the terms of this license shall take precedence. We reiterate that this dataset is intended for non-commercial use only, such as academic research, teaching, or scientific publishing. We do not give you permission to use the dataset or any derivative works thereof for commercial purposes, such as selling the data or exploiting it for commercial gain.
-
-
-
-This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/). 
-
-
-A copy of the full license text is provided in the [LICENSE](./LICENSE) file.
+This data set will be provided to you under the "Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)". You can learn about the CC BY-NC 4.0 agreement by visiting the URL https://creativecommons.org/licenses/by/4.0/. When you download or use these data sets from other places, you agree to abide by the terms of CC BY-NC 4.0. If the terms of a third-party external license conflict with CC BY-NC 4.0, the terms of this license shall take precedence. We reiterate that this dataset is intended for non-commercial use only, such as academic research, teaching, or scientific publishing. We do not give you permission to use the dataset or any derivative works thereof for commercial purposes, such as selling the data or exploiting it for commercial gain. A copy of the full license text is provided in the [LICENSE](./LICENSE) file.
 
 
 
