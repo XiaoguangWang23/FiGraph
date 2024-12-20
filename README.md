@@ -8,6 +8,9 @@ This paper presents FiGraph, a real-world dynamic heterogeneous graph with groun
 
 ## Dataset File Description
 Our data is stored annually, which is beneficial for us to continue expanding this dataset year by year. Each year is considered a snapshot, and each graph snapshot is an undirected graph. The data for each snapshot is stored in a corresponding subfolder named after that year. Taking the year 2014 as an example, the subfolder "2014" contains the snapshot data for 2014, including "edges2014.csv", "ListedCompanyFeatures772_2014.csv", and "MDA_2014.xlsx".
+* **edges2014.csv**: This file consists of three columns. The first two columns represent the nodes, and the third column indicates the type of edge. Each row corresponds to an undirected edge.
+* **ListedCompanyFeatures772_2014.csv**: This file stores the tabular attributes of listed company nodes, with each row representing a listed company node. In this file, column "nodeID" represents the node ID of the listed company, and column "Label" represents the ground truth labels of the listed company, The column "Year" represents the year (snapshot).
+* **MDA_2014.xlsx**: This file stores the textual attributes of listed company nodes. Each row represents a node of a listed company. In this file, column "nodeID" represents the node ID of the listed company, and column "Label" represents the ground truth labels of the listed company, The column "Year" represents the year (snapshot). The column "ManaDiscAnal" represents the textual attribute input for each listed company node. **It should be noted that the data files for 2021 and 2022 are relatively large. Therefore, "MDA_2021.xlsx" is split into "MDA_2021_part1.xlsx" and "MDA_2021_part2.xlsx," and "MDA_2022.xlsx" is split into "MDA_2022_part1.xlsx" and "MDA_2022_part2.xlsx."**
 
 
 ## License
