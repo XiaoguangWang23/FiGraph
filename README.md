@@ -7,11 +7,7 @@ This paper presents FiGraph, a real-world dynamic heterogeneous graph with groun
 
 
 ## Dataset File Description
-* **'edges2014.csv', 'edges2015.csv', 'edges2016.csv', 'edges2017.csv', 'edges2018.csv', 'edges2019.csv', 'edges2020.csv', 'edges2021.csv', 'edges2022.csv'** respectively store one graph snapshot. Each graph snapshot is an undirected graph. Each CSV file consists of three columns, with the first two columns being nodes and the third column being the type of edge. Each row represents an undirected edge.
-
-* **'ListedCompanyFeatures772.csv'** stores the tabular attributes of listed company nodes, with each row representing a listed company node. In this file, column "nodeID" represents the node ID of the listed company, and column "Label" represents the ground truth labels of the listed company, The column "Year" represents the year (snapshot).
-
-* **'MDA.xlsx'** stores the textual attributes of listed company nodes. Each row represents a node of a listed company. In this file, column "nodeID" represents the node ID of the listed company, and column "Label" represents the ground truth labels of the listed company, The column "Year" represents the year (snapshot). The column "ManaDiscAnal" represents the textual attribute input for each listed company node.
+Our data is stored annually, which is beneficial for us to continue expanding this dataset year by year. Each year is considered a snapshot, and each graph snapshot is an undirected graph. The data for each snapshot is stored in a corresponding subfolder named after that year. Taking the year 2014 as an example, the subfolder "2014" contains the snapshot data for 2014, including "edges2014.csv", "ListedCompanyFeatures772_2014.csv", and "MDA_2014.xlsx".
 
 
 ## License
