@@ -6,6 +6,7 @@ Graph anomaly detection (GAD) detects anomalous nodes in real-world networks by 
 
 ## Dataset File Description
 Our data is stored annually, which is beneficial for us to continue expanding this dataset year by year. Each year is considered a snapshot, and each graph snapshot is an undirected graph. The data for each snapshot is stored in a corresponding subfolder named after that year. 
+* The file **"FeaturesDescription.xlsx"** provides comprehensive explanations regarding the practical significance of each feature within our dataset.
 
 **Taking the year 2014 as an example**, the subfolder "2014" contains the snapshot data for 2014, including "edges2014.csv", "ListedCompanyFeatures772_2014.csv", and "MDA_2014.xlsx".
 * **edges2014.csv**: This file consists of three columns. The first two columns represent the nodes, and the third column indicates the type of edge. Each row corresponds to an undirected edge.
