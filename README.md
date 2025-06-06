@@ -20,22 +20,18 @@ Our data is stored annually, which is beneficial for us to continue expanding th
 This data set will be provided to you under the "Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)". You can learn about the CC BY-NC 4.0 agreement by visiting the URL https://creativecommons.org/licenses/by/4.0/. When you download or use these data sets from other places, you agree to abide by the terms of CC BY-NC 4.0. If the terms of a third-party external license conflict with CC BY-NC 4.0, the terms of this license shall take precedence. We reiterate that this dataset is intended for non-commercial use only, such as academic research, teaching, or scientific publishing. We do not give you permission to use the dataset or any derivative works thereof for commercial purposes, such as selling the data or exploiting it for commercial gain. A copy of the full license text is provided in the [LICENSE](./LICENSE) file. By using this dataset, you agree to these terms.
 
 
+This repository contains the data that was used in our paper published at the Web Conference. If you use our data in your research, please cite our paper as follows:
+
 **Under the following terms:**  
 You must give appropriate credit. By using this dataset, you agree to these terms. This includes:
-  - Citing this paper and authors as follows:
-    - **Xiaoguang Wang** (wangxg@stu.xjtu.edu.cn, [ORCID: 0000-0002-6060-5883])  
-      *Xi'an Jiaotong University, Xi'an, China*
-    - **Chenxu Wang** (Corresponding author, cxwang@mail.xjtu.edu.cn, [ORCID: 0000-0002-9539-5046])  
-      *Xi'an Jiaotong University, Xi'an, China*
-    - **Huanlong Liu** (hlliu@stu.xjtu.edu.cn, [ORCID: 0009-0009-7932-8706])  
-      *Xi'an Jiaotong University, Xi'an, China*
-    - **Mengqin Wang** (wmengqin@stu.xjtu.edu.cn, [ORCID: 0009-0005-8130-0623])  
-      *Xi'an Jiaotong University, Xi'an, China*
-    - **Tao Qin** (qin.tao@mail.xjtu.edu.cn, [ORCID: 0000-0002-7674-698X])  
-      *Xi'an Jiaotong University, Xi'an, China*
-    - **Pinghui Wang** (phwang@mail.xjtu.edu.cn, [ORCID: 0000-0002-1434-837X])  
-      *Xi'an Jiaotong University, Xi'an, China*
-
+  - Citing this paper and authors as follows:    
+  @inproceedings{wang2025figraph,
+  title={FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection},
+  author={Wang, Xiaoguang and Wang, Chenxu and Liu, Huanlong and Wang, Mengqin and Qin, Tao and Wang, Pinghui},
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},
+  pages={813--816},
+  year={2025}
+}
   - Providing a link to this repository (if public).
   - You agree to abide by the terms of [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
   - Indicating if any modifications were made (e.g., “Data were modified from the original.”) and what content has been modified.
