@@ -26,12 +26,12 @@ This repository contains the data that was used in our paper published at the We
 **Under the following terms:**  
 You must give appropriate credit. By using this dataset, you agree to these terms. This includes:
   - Citing this paper and authors as follows:    
-  @inproceedings{wang2025figraph,
-  title={FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection},
-  author={Wang, Xiaoguang and Wang, Chenxu and Liu, Huanlong and Wang, Mengqin and Qin, Tao and Wang, Pinghui},
-  booktitle={Companion Proceedings of the ACM on Web Conference 2025},
-  pages={813--816},
-  year={2025}
+  @inproceedings{wang2025figraph,  
+  title={FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection},   
+  author={Wang, Xiaoguang and Wang, Chenxu and Liu, Huanlong and Wang, Mengqin and Qin, Tao and Wang, Pinghui},  
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},  
+  pages={813--816},  
+  year={2025}  
 }
   - Providing a link to this repository (if public).
   - You agree to abide by the terms of [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
