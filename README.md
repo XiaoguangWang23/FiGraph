@@ -25,7 +25,7 @@ This repository contains the data that was used in our paper published at the We
 
 **Under the following terms:**  
 You must give appropriate credit. By using this dataset, you agree to these terms. This includes:
-  - Citing this paper and authors as follows:    
+  - Citing this paper as follows:    
   @inproceedings{wang2025figraph,  
   title={FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection},   
   author={Wang, Xiaoguang and Wang, Chenxu and Liu, Huanlong and Wang, Mengqin and Qin, Tao and Wang, Pinghui},  
