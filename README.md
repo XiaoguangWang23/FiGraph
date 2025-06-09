@@ -23,6 +23,7 @@ This data set will be provided to you under the "Creative Commons Attribution-No
 
 This repository contains the data that was used in our paper published at the Web Conference. If you use our data in your research, please cite our paper as follows:
 
+<!--
 **Under the following terms:**  
 You must give appropriate credit. By using this dataset, you agree to these terms. This includes:
   - Citing this paper as follows:    
@@ -36,3 +37,4 @@ You must give appropriate credit. By using this dataset, you agree to these term
   - Providing a link to this repository (if public).
   - You agree to abide by the terms of [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
   - Indicating if any modifications were made (e.g., “Data were modified from the original.”) and what content has been modified.
+  -->
