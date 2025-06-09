@@ -39,14 +39,15 @@ You must give appropriate credit. By using this dataset, you agree to these term
   - Indicating if any modifications were made (e.g., “Data were modified from the original.”) and what content has been modified.
   -->
 
-**Citation:**
+## Citation
 If you use FiGraph or find this repository useful for your research or work, please cite us using the following citation:
 
-  @inproceedings{wang2025figraph,  
+```bibtex
+  @inproceedings{figraph,  
   title={FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection},   
   author={Wang, Xiaoguang and Wang, Chenxu and Liu, Huanlong and Wang, Mengqin and Qin, Tao and Wang, Pinghui},  
   booktitle={Companion Proceedings of the ACM on Web Conference 2025},  
   pages={813--816},  
   year={2025}  
 }
-
+```
