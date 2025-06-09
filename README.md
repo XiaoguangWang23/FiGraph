@@ -38,3 +38,15 @@ You must give appropriate credit. By using this dataset, you agree to these term
   - You agree to abide by the terms of [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
   - Indicating if any modifications were made (e.g., “Data were modified from the original.”) and what content has been modified.
   -->
+
+**Citation:**
+If you use FiGraph or find this repository useful for your research or work, please cite us using the following citation:
+
+  @inproceedings{wang2025figraph,  
+  title={FiGraph: A Dynamic Heterogeneous Graph Dataset for Financial Anomaly Detection},   
+  author={Wang, Xiaoguang and Wang, Chenxu and Liu, Huanlong and Wang, Mengqin and Qin, Tao and Wang, Pinghui},  
+  booktitle={Companion Proceedings of the ACM on Web Conference 2025},  
+  pages={813--816},  
+  year={2025}  
+}
+
